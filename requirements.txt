@@ -1,0 +1,12 @@
+jupyterlab
+numpy<2
+matplotlib
+pandas
+opencv-python
+scikit-learn
+seaborn
+torch
+torchvision
+termcolor
+#tsne 
+pillow
